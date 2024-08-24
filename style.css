@@ -2,3 +2,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   background-color: aliceblue;
 }
+
+ul {
+  list-style-type: none;
+}
