@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Remote Git</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ab autem quas odit ad dicta animi, inventore nihil beatae vero incidunt sed maxime possimus veniam voluptas sequi cupiditate in rerum?</p>
 </body>
 </html>
