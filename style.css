@@ -1,8 +1,12 @@
-body {
-  font-family: 'Courier New', Courier, monospace;
+html {
   background-color: aliceblue;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;  
 }
 
 ul {
   list-style-type: circle;
 }
+
